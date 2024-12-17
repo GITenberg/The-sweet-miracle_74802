@@ -1,0 +1,66 @@
+_repo: The-sweet-miracle_74802
+_version: 0.0.1
+alternative_title: O suave milagre. English
+contributor:
+  illustrator:
+    agent_name: Carlos I, King of Portugal
+    aliases:
+    - Bragança, Carlos de
+    - Braganca, Carlos de
+    - Carlos, de Bragança
+    - Charles I, King of Portugal
+    birthdate: 1863
+    deathdate: 1908
+    gutenberg_agent_id: '57657'
+    url: http://www.gutenberg.org/2009/agents/57657
+    wikipedia: https://en.wikipedia.org/wiki/Carlos_I_of_Portugal
+  translator:
+    agent_name: Prestage, Edgar
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '37867'
+    url: http://www.gutenberg.org/2009/agents/37867
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Prestage
+creator:
+  author:
+    agent_name: Queirós, Eça de
+    aliases:
+    - Queiroz, José Maria Eça de
+    - Queiroz, Eca de
+    - Queiros, Jose Maria Eca de
+    - Queiroz, Eça de
+    - Queiroz, Jose Maria Eca de
+    - Queirós, José Maria Eça de
+    - Eça de Queirós, José María
+    birthdate: 1845
+    deathdate: 1900
+    gutenberg_agent_id: '4852'
+    url: http://www.gutenberg.org/2009/agents/4852
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Maria_de_E%C3%A7a_de_Queir%C3%B3s
+description: '"The frontispiece is a copy of a striking water-colour sketch by the
+  King of Portugal"--Prefatory note.'
+gutenberg_issued: '2024-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74802'
+language: en
+pgterms:marc904: https://archive.org/details/shells00wilc/page/n5/mode/2up
+pgterms:marc905: 20241121123128wheeler
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive).
+publication_note: $aLondon :$bD. Nutt, $c1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcsh 'Portuguese fiction -- Translations into English'
+- !lcsh 'Short stories, Portuguese -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: The sweet miracle
+url: http://www.gutenberg.org/ebooks/74802
